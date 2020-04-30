@@ -1,0 +1,94 @@
+.play0{
+    text-align: center;
+}
+.play1{
+    text-align: center;
+}
+.btns{
+    text-align: center;
+}
+.game{
+    background-color:whitesmoke;
+    background-position: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    
+    
+    
+}
+.totalscore{
+    margin-top: 30%;
+    font-size: 80px;
+}
+.totalscore2{
+    margin-top: 30%;
+    font-size: 80px;
+}
+.currentscore{
+    margin-top: 50%;
+    margin-bottom: 20%;
+    font-size: 30px;
+    background-color: teal;
+    display: block;
+    
+}
+.currentscore2{
+    margin-top: 50%;
+    font-size: 30px;
+    background-color: tomato;
+    display: block;
+}
+.new{
+    margin-top: 10%;
+    font-size: 20px;
+    text-align: center;
+}
+.new:hover{
+    color:indigo;
+    font-size: 22px;
+}
+.dic{
+    margin-top: 100%;
+    font-size: 20px;
+    text-align: center;
+}
+.dic:hover{
+    color: red;
+    font-size: 22px;
+}
+.pas{
+    margin-top: 10%;
+    font-size: 20px;
+    text-align: center;
+    
+}
+.pas:hover{
+    color: green;
+    font-size: 22px;
+}
+.p1{
+    margin-top: 50%;
+    font-size: 40px;
+    color: teal;
+}
+.p2{
+    margin-top: 50%;
+    font-size: 40px;
+    color: tomato;
+}
+body{
+    background-image: url(lion-3012515.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    
+   
+    
+}
+.active{
+    background-color: gainsboro;
+}
+
+
