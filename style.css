@@ -1,0 +1,45 @@
+@media screen and (max-width: 1700px) {
+body{
+    background: linear-gradient(to right, blue, pink);
+}
+}
+
+
+@media screen and (max-width: 1000px) {
+    body{
+        background: linear-gradient(to right, yellow,gray);
+    }
+    }
+
+    @media screen and (max-width: 600px) {
+        body{
+            background: linear-gradient(to right, #99ffcc, #ffb3d9);
+        }
+        }    
+
+
+.clock {
+    width: 400px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    padding: 40px 0;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    border-radius: 15px;
+    background-color: #ebebe0;
+    color:  #000080;
+}
+
+#displaytime {
+    font-size: 47px;
+    font-weight: bold;
+}
+#link{
+           text-decoration: none;
+           color: lightsalmon;
+}
+p{
+    color: gray;
+}
